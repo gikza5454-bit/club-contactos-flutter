@@ -4,6 +4,7 @@ import 'package:supabase_flutter/supabase_flutter.dart';
 // =========================================================================
 // 1. INICIALIZACIÓN DE LA APP Y CONEXIÓN A SUPABASE
 // =========================================================================
+// ----- Revision 2 de Gikza/kicho  -----
 
 void main() async {
   // Asegura que los bindings de Flutter estén listos antes de inicializar vercel.json
